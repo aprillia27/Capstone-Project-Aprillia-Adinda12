@@ -1,5 +1,7 @@
 Analisis Kepadatan Penduduk Indonesia per Provinsi Tahun 2021
 
+Oleh: Aprillia Adinda Welliman
+
 Project Overview
 
 Proyek ini adalah bagian dari Student Development Initiative HACKTIV8 yang bertujuan untuk menganalisis data publik mengenai Kepadatan Penduduk di 34 provinsi Indonesia pada tahun 2021. Tujuannya adalah untuk memahami tingkat kepadatan dan ketimpangan persebaran penduduk, serta menggali wawasan bermakna dari data tersebut dengan bantuan AI (IBM Granite).
